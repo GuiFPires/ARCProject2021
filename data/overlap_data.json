@@ -1,0 +1,74 @@
+[
+   {
+      "City":"Amsterdam",
+      "Congestion Level": 25,
+      "Pedestrian-Drive Overlap Census": 0.14,
+      "Type":"Predominant Bike Pathways"
+   },
+    {
+      "City":"Barcelona",
+      "Congestion Level": 28,
+      "Pedestrian-Drive Overlap Census": 0.34,
+      "Type":"Mobility Active City"
+    },
+   {
+      "City":"Bogota",
+      "Congestion Level": 62,
+      "Pedestrian-Drive Overlap Census": 0.66,
+      "Type":"Car-Centric City"
+   },
+   {
+      "City":"Budapest",
+      "Congestion Level": 31,
+      "Pedestrian-Drive Overlap Census": 0.40,
+      "Type":"Car-centric City with Pedestrian Pathways"
+   },
+   {
+      "City":"Copenhagen",
+      "Congestion Level": 22,
+      "Pedestrian-Drive Overlap Census": 0.27,
+      "Type":"Mobility Active City"
+   },
+   {
+      "City":"Detroit",
+      "Congestion Level": 17,
+      "Pedestrian-Drive Overlap Census": 0.52,
+      "Type":"Car-centric City with Pedestrian Pathways"
+   },
+   {
+      "City":"Jakarta",
+      "Congestion Level": 61,
+      "Pedestrian-Drive Overlap Census": 0.97,
+      "Type":"Car-Centric City"
+   },
+   {
+      "City":"LA",
+      "Congestion Level": 42,
+      "Pedestrian-Drive Overlap Census": 0.62,
+      "Type":"Car-Centric City"
+   },
+   {
+      "City":"London",
+      "Congestion Level": 36,
+      "Pedestrian-Drive Overlap Census": 0.50,
+      "Type":"Car-centric City with Pedestrian Pathways"
+   },
+   {
+      "City":"Mexico",
+      "Congestion Level": 52,
+      "Pedestrian-Drive Overlap Census": 0.81,
+      "Type":"Car-Centric City"
+   },
+   {
+      "City":"Phoenix",
+      "Congestion Level": 17,
+      "Pedestrian-Drive Overlap Census": 0.46,
+      "Type":"Car-centric City with Pedestrian Pathways"
+   },
+   {
+      "City":"Portland",
+      "Congestion Level": 27,
+      "Pedestrian-Drive Overlap Census": 0.40,
+      "Type":"Mobility Active City"
+   }
+]
