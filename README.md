@@ -40,7 +40,7 @@ you will need to install  them by running these python commands:
 
 **results folder**- contains every graph presented by us in the paper: Figure1.png represents the histogram regarding the degree distribution example(on paper's point 2); every png named after a city represents their overlap census graphs(represented on 3.2); Nodes_Population.png and Links_Population.png represent the linear regressions done on 3.2 and Ranking_Regression.png that represents the linear regression done on 4.1.2. as well as three txt files: first_table.txt that contains the data used to fill the first table in the paper; second_table.txt that contains the data used to fill the second table in the paper and pedestrian_drive_oc.txt that contain the cities' pedestrian-drive network overlap census used to fill up data/overlap_data.json
 
-========================================================================================
+
 
 ### Files:
 **Urban_Transportation_Networks_Multi-Layered_Approach.pdf** - Our final paper.
