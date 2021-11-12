@@ -25,6 +25,8 @@ you will need to install  them by running these python commands:
 	
 	pip install altair_viewer
 	
+	pip install git+https://github.com/altair-viz/altair-transform.git
+	
 	pip install pandas
 	
 
